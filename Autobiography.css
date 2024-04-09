@@ -276,16 +276,6 @@ div.desc1 {
   text-align: left;
 }
 
-
-
-div.gallery {
-  border: 2px solid #a39d9d;
-}
-
-div.gallery:hover {
-  border: 4px solid #ffe02e;
-}
-
 div.gallery img {
   width: 100%;
   height: auto;
