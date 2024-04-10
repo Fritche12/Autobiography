@@ -170,7 +170,7 @@ img {
 
 #friends {
   padding-top: 10px;
-  height: 500px;
+  height: auto;
   color: #ffffff;
   background-color: #000000;
 }
