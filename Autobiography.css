@@ -222,7 +222,7 @@ div.desc1 {
 #awardsReceived {
   color: #fff;
   background-color: #000000;
-  padding:30x;
+  padding:30px;
   margin: 0;
   width: 100%;
   height: auto;
@@ -232,7 +232,7 @@ div.desc1 {
 
 
 div.gallery {
-  border: 2px solid #a39d9d;
+  border: 2px solid #747171;
 }
 
 div.gallery:hover {
@@ -241,7 +241,8 @@ div.gallery:hover {
 
 div.gallery img {
   width: 100%;
-  height: auto;
+  height: 400px;
+  padding-top: 0%;
 }
 
 div.desc {
